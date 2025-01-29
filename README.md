@@ -1,2 +1,2 @@
 # AICanvas
-Repository for CareerCanvas AI
+AI Services for CareerCanvas
